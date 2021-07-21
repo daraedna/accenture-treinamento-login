@@ -2,11 +2,12 @@
 export const mixins = {
     colors: {
         background: "#E4E4E4",
-        primary: "#0D6EFD",
+        primary: "#241B6C",
         secondary: "#FFF",
         green: "green",
         yellow: "yellow",
-        red: "red"
+        red: "red",
+        gradient: "linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), #241B6C"
     },
     fonts: {
         bold: "Montserrat-Bold",
